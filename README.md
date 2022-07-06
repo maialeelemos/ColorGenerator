@@ -15,6 +15,10 @@ ColorImpl (class) :
 GeneratorActions (interface) :
 - saveAsText() :
 - saveAsImage() :
+- applyCommand() : what should its return type be? The model interface type?
+
+GeneratorActionsImpl (class) :
+- how to represent this with data? Does it even need fields?
 
 CONTROLLER:
 Controller (class) :
